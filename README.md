@@ -1,6 +1,6 @@
 # Vue Crash Course (Task Tracker)
 
-**This is the project from the YouTube crash course**
+**This Vue.js Crash Course Project was created through a tutorial, providing a hands-on learning experience to implement key Vue.js concepts and techniques.**
 
 ## Project setup
 ```
